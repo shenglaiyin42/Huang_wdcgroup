@@ -134,11 +134,23 @@ body.people-page #title-block-header {
   text-align: center;
 }
 
+.home-affiliation {
+  color: var(--site-text);
+  font-size: 1.05rem;
+  font-weight: 400;
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.home-affiliation p {
+  margin: 0;
+}
+
 .home-pi {
   color: var(--site-text);
   font-size: clamp(1.35rem, 2.4vw, 1.7rem);
   font-weight: 600;
-  margin-top: 1.5rem;
+  margin-top: 0.75rem;
   text-align: left;
 }
 
