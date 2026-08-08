@@ -1,0 +1,109 @@
+---
+title: "研究组论文发表"
+page-layout: full
+body-classes: "publications-page-body"
+---
+
+::: {.publications-page-shell}
+::: {.publications-page}
+## 代表论文
+
+1.  Wei X<sup>\#</sup>, Li H<sup>\#</sup>, **Huang ZYX<sup>\#</sup>**, Li S, Wang Y, Lan J, Hu L, Li Y, Becker DJ\*, Wei F\*, Xu Y\*. 2026. A global-scale assessment of zoonotic virus diversity and spillover potential in urban-adapted mammal species. *Nature Microbiology*. 11: 1410-1423
+
+2.  Yin S, Li N, Xu W, Becker DJ, de Boer WF, Xu C, Mundkur T, Fountain-Jones NM, Li C, Han G-Z, Wu Q, Prosser D, Cui L, **Huang ZYX\***. 2023. Functional traits explain waterbirds’ host status, subtype richness, and community-level infection risk for avian influenza. *Ecology Letters*. 26:1780–1791
+
+3.  **Huang ZYX\***, Halliday FW, Becker DJ\*. 2023. Host functional traits as the nexus for multi-level infection patterns. *Trends in Ecology & Evolution*. 38: 1125-1128 **(Selected in [Cell Press 2023 One Health Day](https://www.cell.com/trends/collections/one-health-day-2023))**
+
+4.  Yin S, Xu Y, Xu M, de Jong MCM, Huisman MRS, Contina A, Prins HHT, **Huang ZYX\*,** de Boer WF. 2022. Habitat loss exacerbates pathogen spread: An Agent-based model of avian influenza infection in migratory waterfowl. *PLoS Computational Biology*. 18: e1009577 **(Cover feature)**
+
+5.  Wang YXG, Matson KD, Prins HHT, Gort G, Awada L, **Huang ZYX**\***,** de Boer F. 2019. Phylogenetic structure of wildlife assemblages shapes patterns of infectious livestock diseases in Africa. *Functional Ecology.* 33:1332-1341.**（2019 Haldane prize）**
+
+## 其它主要论文
+
+6.  Li H<sup>\#</sup>, **Huang ZYX<sup>\#</sup>**, Lan J<sup>\#</sup>, Hu L, Wang Z, Wang Y, Santini L, Becker DJ\*, Xu Y\*. 2026. Insectivores exhibit superior microbial network connectivity and elevated zoonotic risk by 2035 relative to rodents and bats. *SCIENCE CHINA Life Sciences*. 69: 2390-2403
+
+7.  Yin S, Xie Q, Mundkur T, Wu Y, Chai H, Wu Q, **Huang ZYX\***. 2025. The predictable HPAI H5 outbreaks in European wild birds. *Avian Research*. 16: 100311
+
+8.  Li H<sup>\#</sup>, **Huang ZYX<sup>\#</sup>**, Lan J, Hu L, Wei X, Wang Y, Li X, Li Y, Becker DJ\*, Wei F\*, 2025. Diversity and transmission and zoonotic potential of microbes in true insectivores. *Nature Communications*. 16:6709
+
+9.  Yin S, Xu C, Zhang Y, de Boer WF, Mundkur T, Artois J, Velckers F, Takekawa JY, Si Y, Tian H, Han G-Z, Chen Y, Chai H, Cui L, **Huang ZYX\***. 2024. Strong and consistent effects of waterbird community composition on HPAI H5 occurrences across Europe. *Ecological Applications*. 34(6): e3010
+
+10. Wang YXG, Matson KD, Prins HHT, Xu Y, **Huang ZYX\***, de Boer WF. 2023. Risk factors for Lyme disease: a scale-dependent effect of host species diversity and a consistent negative effect of host phylogenetic diversity. *Tick and Tick-borne Diseases*. 14: 102073
+
+11. Wang YXG, Matson KD, Santini L, Visconti P, Hilbers JP, Huijbregts MAJ, Xu Y, Prins HHT, Allen T, **Huang ZYX**\*, de Boer WF\*. 2021. Mammal assemblage composition predicts global patterns in emerging infectious disease risk. *Global Change Biology*. 27: 4995-5007.
+
+12. Yin S, de Knegt HJ, de Jong MCM, Si Y, Prins HHT, **Huang ZYX\***, de Boer WF. 2020. Effects of migration network configuration and migration synchrony on infection prevalence in geese. *Journal of Theoretical Biology*. 502: 110315
+
+13. Dong Y, **Huang ZYX**\*, Zhang Y, Wang YXG, Yang L\*. 2020. Comparing the climatic and landscape risk factors for Lyme cases in the Upper Midwest and Northeast United States. *International Journal of Environmental Research and Public Health*. 17: 1548
+
+14. **Huang ZYX**\*, Xu C\*, van Langevelde F, Langendoen T, Ma Y, Mundkur T, Si Y, Tian H, Kraus RHS, Gilbert M, Han G-Z, Ji X, Prins HHT**,** de Boer F. 2019. Contrasting effects of host species and phylogenetic diversity on the occurrence of HPAI H5N1 in European wild birds. *Journal of Animal Ecology*. 88:1044–1053
+
+15. Li C, Zhang Y, Zha D, Yang S, **Huang ZYX\***, de Boer WF. 2019. Assembly processes of waterbird communities across subsidence wetlands in China: a functional and phylogenetic approach. *Diversity and Distributions.* 25:1118-1129
+
+16. Wang YXG, Matson KD, Xu Y, Prins HHT, **Huang ZYX\***, de Boer WF. 2019. Forest connectivity, host assemblage characteristics of local and neighbouring counties, and temperature jointly shape the spatial expansion of Lyme disease in United States. *Remote Sensing*. 11:2354
+
+17. Wei S<sup>\#</sup>, Li H<sup>\#</sup>, Xu J, Luan X, Qiu Y, Yang X, Shen D, Liu M, **Huang ZYX\***, Xu C\*. 2019. Hierarchical structure in the world’s largest high-speed rail network. *PLoS ONE*. 14: e0211 052
+
+18. **Huang ZYX\***, Yu Y, van Langevelde F, de Boer F. 2017. Does the dilution effect generally occur in animal diseases? *Parasitology*. 144(6): 823-826
+
+19. **Huang ZYX\***, Honer KJ, Naguib M, van Langevelde F, de Boer F. 2017. Regional level risk factors associated with the occurrence of African swine fever in West and East Africa. *Parasites & Vectors*. 10:16
+
+20. **Huang ZYX\***, van Langevelde F, Estrada-Peña A, Suzan G, de Boer F. 2016. The diversity-disease relationship: evidence for and criticisms of the dilution effect. *Parasitology*. 143: 1075 - 1086
+
+21. **Huang ZYX\***, van Langevelde F, Prins HHT, de Boer WF. 2015. Dilution versus facilitation: Impact of connectivity on disease risk in metapopulations. *Journal of Theoretical Biology*. 376: 66-73
+
+22. **Huang ZYX<sup>\#</sup>\*** & Xu C<sup>\#</sup>, van Langevelde F, Prins HHT, Ben Jebara K, de Boer WF. 2014. Dilution effect and identity effect by wildlife in the persistence and recurrence of bovine tuberculosis. *Parasitology*. 141: 981-987
+
+23. Xu C<sup>\#</sup> & **Huang ZYX<sup>\#</sup>**, Chi T, Chen BJW, Zhang M, Liu M\*. 2014. Can local landscape attributes explain species richness patterns at macroecological scales? *Global Ecology and Biogeography*. 23: 436-445
+
+24. **Huang ZYX\***, de Boer WF, van Langevelde F, Xu C, Ben Jebara K, Berlingieri F, Prins HHT. 2013. Dilution effect in bovine tuberculosis: risk factors for regional disease occurrence in Africa. *Proceedings of the Royal Society B: Biological Series* 280: 20130624
+
+25. **Huang ZYX\***, de Boer WF, van Langevelde F, Olson V, Blackburn TM, Prins HHT. 2013. Species’ life-history traits explain interspecific variation in reservoir competence: a possible mechanism underlying the dilution effect. *PLoS ONE* 8: e54341
+
+26. **Huang Z**, Liu MS, Chen B, Uriankhai T, Xu C, Zhang M\*. 2010. Distribution and interspecific correlation of root biomass density in an arid Elaeagnus angustifolia - Achnatherum splendens community. *Acta Ecologica Sinica* 30: 45–49
+
+## 共同作者论文
+
+27. Wu Q, Han Y, Fecchio A, Ren P, **Huang ZYX**, Ding P. 2026. Migratory birds shape potential haemosporidian transmission through a parasite-sharing network. *Avian Research*. 17: 100378
+
+28. Li N, Luo X, Li X, Tang N, Wang Z, Li J, **Huang Z.** 2026. Long-term landscape change drives shifts in functional traits of wintering waterbirds along China's Yellow Sea Coast. *Journal of Environmental Management*. 401:129007
+
+29. Yin S, Zhang C, Teitelbaum C, Si Y, Zhang G, Wang X, Mao D, **Huang ZYX**, de Boer WF, Takekawa J, Prosser DJ, Xiao X. 2025. Landscape changes elevate the risk of avian influenza virus diversification and emergence in the East Asian–Australasian Flyway. *Proceedings of the National Academy of Sciences of the United States of America*. 122: e2503427122.
+
+30. Carlson CJ, Brookson CB, Becker DJ, Cummings CA, Gibb R, Halliday FW, Heckley AM, **Huang ZYX**, Lavelle T, Robertson H, Vicente-Santos A, Weets CM, Poisot T. 2025. Pathogens and planetary change. *Nature Reviews Biodiversity.* 1: 32-49
+
+31. Wu Q, Fecchio A, Han Y, Liu J, Jin T, **Huang ZYX**, Ding P. 2025. Scaling-up to understand disease risk: distinct roles of host functional traits in shaping infection risk of avian malaria across different scales. *Proceedings of the Royal Society B: Biological Series.* 292: 20242175
+
+32. Li X, Li A, Qu F, Li Y, Chen F, Lv X, An Q, Fei M, Chen H, Liang Hi, Zhang X, Li J, Yu M, Qin S, Xie L, Yin S, **Huang ZYX**, Yang S, Sun H, Li X, Chai H. 2025. Evaluation of global distribution, genetic evolution, and mammalian infectivity and pathogenicity of H13 and H16 avian influenza viruses. *Emerging Microbes & Infections*. 14: 2482695.
+
+33. Ma J, Xu N, Xu Y, **Huang ZYX,** Chen C, Wang YWG. 2025. Impacts of Urbanization and Habitat Characteristics on the human risk of West Nile Disease in the United States. *Biology.* 14: 224
+
+34. Chen S, Zhang Y, Xu C, Cao L, **Huang ZYX**, Chen BJW, Li C, Xu W, Song Y, de Boer WF. 2022. Neighbourhood threats: landscape context and anthropogenic changes can trigger waterbird population collapse. *Landscape Ecology*. 37: 3141-3158
+
+35. Yu J, Xiao H, Yang W, Dellicour S, Kraemer M, Liu Y, Cai J, **Huang ZYX**, Zhang Y, Feng Y, Huang W, Zhang H, Gilbert M, Tian H. 2020. The impact of anthropogenic and environmental factors on human rabies cases in China. *Transboundary and Emerging Diseases*. 67: 2544-2553.
+
+36. Chen BJW, Xu C, Liu M, **Huang ZYX**, Zhang M, Anten NPR. 2020. Neighbourhood-dependent root distributions and the consequences on root separation in arid ecosystems. *Journal of Ecology.* 108:1635–1648
+
+37. Luan X, Yu Z, Zhang Y, Wei S, Miao X, **Huang ZYX**, Teng SN, Xu C. 2020. Remote sensing and social sensing data reveal scale-dependent and system-specific strengths of urban heat island determinants. *Remote Sensing.* 12: 351
+
+38. Li Y, Cazelles B, Yang G, Laine M, **Huang ZYX**, Cai J, Tan H, Stenseth NC, Tian H. 2019. Intrinsic and extrinsic drivers of transmission dynamics of the hemorrhagic fever with renal syndrome caused by the Seoul virus. *PLoS Neglected Tropical Diseases.* 13(9): e0007757
+
+39. Qiu Y, Teng SN, Zhang Y, Santana J, Svenning J, Reino L, Abades S, Ma H, Yang L, Wu Y, **Huang ZYX**, Xu C. 2019. The resolution‐dependent role of landscape attributes in shaping macro-scale biodiversity patterns. *Global Ecology and Biogeography* 28:767-778
+
+40. Xiao H, Tong X, Gao L, Hu S, Tan H, **Huang ZYX**, Zhang G, Yang Q, Li X, Hunag R, Tong S, Tian H. 2018. Spatial heterogeneity of hemorrhagic fever with renal syndrome is driven by environmental factors and rodent community composition. *PLoS Neglected Tropical Diseases.* 12(10): e0006881
+
+41. Chen L, **Huang ZYX**, Zhou S. 2018. The Allee effect in hosts can weaken the dilution effect of host diversity on parasitoid infections. *Ecological Modelling*. 382: 43-50
+
+42. Xiao H, Tong X, Huang R, Gao L, Hu S, Li Y, Gao H, Zheng P, Yang H, **Huang ZYX**, Tian H. 2018. Landscape and rodent community composition are associated with risk of hemorrhagic fever with renal syndrome in two cities in China, 2006–2013. *BMC Infectious Diseases*. 28: 17
+
+43. Tao T, Abades S, Teng S, **Huang ZYX**, Reinoe L, Chen BJW, Yong Zhang, Xu C\* Svenning J. 2017. Macroecological factors shape local-scale spatial patterns in agriculturalist settlements. *Proceedings of the Royal Society B: Biological Series*. 284: 20172003
+
+44. Qiu Y, Chen JWB, Song Y, **Huang ZYX,** Wan L, Huang C, Liu M, Xu C. 2016. Composition, distribution and habitat effects of vascular plants on the vertical surfaces of an ancient city wall. *Urban Ecosystems*.19: 939 - 948
+
+45. Xu C, Chen BJW, Abades S, Reino L, Teng S, Ljungqvist FC, **Huang ZYX**, Liu M. 2015. Macroecological factors explain large-scale spatial population patterns of ancient agriculturalists. *Global Ecology and Biogeography.* 24: 1030-1039
+
+46. Xu C, Liu MS, Zhang M, Chen B, **Huang Z**, Uriankhai T, Sheng S. 2011. The spatial pattern of grasses in relation to tree effects in an arid savannah community: Inferring the relative importance of canopy and root effect. *Journal of Arid Environment* 75: 953-959
+
+47. Xu C, Liu MS, Yang XJ, Sheng S, Zhang MJ, **Huang Z**. 2010. Detecting the spatial differentiation in settlement change rates during rapid urbanization in the Nanjing metropolitan region, China. *Environmental Monitoring and Assessments* 171: 457-470
+:::
+:::

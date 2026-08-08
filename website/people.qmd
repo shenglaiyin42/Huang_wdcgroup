@@ -1,0 +1,89 @@
+---
+title: "研究团队"
+page-layout: full
+body-classes: "people-page"
+---
+
+::: {.people-page-shell}
+# 研究团队
+
+::: {.faculty-list}
+::: {.faculty-profile}
+::: {.faculty-photo-wrap}
+<img src="assets/img/huang-zheng.jpg" class="faculty-photo huang-photo" alt="黄峥教授">
+
+<nav class="faculty-social-links" aria-label="黄峥教授的学术主页">
+<a href="https://scholar.google.com/citations?user=5SRTuN8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer" aria-label="黄峥教授的 Google Scholar 主页"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
+</nav>
+
+<div class="faculty-history" aria-label="黄峥教授教育与工作经历">
+<div class="history-item"><span class="history-date">2003.09-2007.06</span><span class="history-detail">南京大学生物技术 学士</span></div>
+<div class="history-item"><span class="history-date">2007.09-2010.06</span><span class="history-detail">南京大学生态学 硕士</span></div>
+<div class="history-item"><span class="history-date">2010.08-2014.09</span><span class="history-detail">荷兰瓦赫宁根大学 博士</span></div>
+<div class="history-item"><span class="history-date">2013.10-2014.01</span><span class="history-detail">美国普林斯顿大学 访问博士</span></div>
+<div class="history-item"><span class="history-date">2015.07-2024.09</span><span class="history-detail">南京师范大学 副教授、教授</span></div>
+<div class="history-item"><span class="history-date">2024.10至今</span><span class="history-detail">南京林业大学 教授</span></div>
+</div>
+:::
+
+::: {.faculty-copy}
+## 黄峥 教授
+
+::: {.faculty-bio}
+黄峥教授主要从事“One Health”框架下的动物传染病生态学研究，以高致病性禽流感、莱姆病、牛肺结核等重要人畜共患病为对象，重点针对人畜共患病在群落和景观水平上的传播格局、风险因子及生态机理开展系统性研究，以期深入阐释环境—宿主—病原间的复杂关系，从而为这些传染病的预测和防控提供理论依据。
+
+现任中国野生动物保护协会疫源疫病专业委员会副秘书长、林业与草原野生动物疫源疫病监控创新联盟理事、江苏省动物学会理事。
+:::
+
+::: {.faculty-projects}
+### 科研项目
+
+1. 物种功能性状对动物传染病风险影响的多尺度研究（国家自然科学基金：2023-2026）
+2. 宿主群落系统发育结构对人畜共患病传播风险的影响及内在机制（国家自然科学基金：2019-2022）
+3. 景观组成结构对动物传染病传播风险的影响（国家自然科学基金：2016-2018）
+:::
+:::
+:::
+
+::: {.faculty-profile}
+::: {.faculty-photo-wrap}
+<img src="assets/img/wu-qiang.jpg" class="faculty-photo wu-photo" alt="吴强教授">
+
+<div class="faculty-history" aria-label="吴强教授教育与工作经历">
+<div class="history-item"><span class="history-date">2010</span><span class="history-detail">河南科技大学 生物工程 学士</span></div>
+<div class="history-item"><span class="history-date">2014</span><span class="history-detail">浙江大学 生态学 硕士</span></div>
+<div class="history-item"><span class="history-date">2018</span><span class="history-detail">CNRS理论与实验生态学研究站-法国图卢兹第三大学 生态学 博士</span></div>
+<div class="history-item"><span class="history-date">2019-2024</span><span class="history-detail">浙江大学 生命科学学院 助理研究员</span></div>
+<div class="history-item"><span class="history-date">2023.07</span><span class="history-detail">CNRS理论与实验生态学研究站 访问学者</span></div>
+<div class="history-item"><span class="history-date">2025-至今</span><span class="history-detail">南京林业大学 生命科学学院 校聘副教授</span></div>
+</div>
+:::
+
+::: {.faculty-copy}
+## 吴强 教授
+
+::: {.faculty-bio}
+吴强博士主要从事动物生态与保护及疾病生态学研究。在动物生态与保护方面，以鸟类、两栖爬行动物等类群为研究对象，关注动物多样性格局及其保护，并探讨动物对生境片段化和气候变化等环境变化的响应。在疾病生态学方面，主要聚焦鸟类血孢子虫以及寄生性蜱螨相关的野生动物病原体，研究病原体多样性的空间格局及其维持机制、宿主与病原体互作网络对环境变化的响应，以及疾病传播风险的生态驱动机制。
+:::
+
+::: {.faculty-courses}
+### 讲授课程
+
+本科生课程：《动物生物学》《动物生物学实验》《保护生物学》
+:::
+
+::: {.faculty-projects}
+### 科研项目
+
+1. 国家自然科学基金，青年基金项目，鸟类群落结构对血液寄生虫感染风险的影响及其内在机制，2021-2023，主持
+2. 国家自然科学基金，重点项目，气候变化和生境片段化联合作用下的亚热带森林鸟类群落构建和物种共存机制，2021-2025，主要参与
+3. 浙江省自然科学基金，重大项目，千岛湖片段化栖息地鸟类集合种群动态及其对群落稳定性的影响，2021-2023，主要参与
+4. 国家自然科学基金，面上项目，千岛湖两栖类和爬行类小岛屿效应研究，2015-2018，参与
+5. 国家自然科学基金，面上项目，青藏高原极端环境下藏棕熊的行为生态适应机制，2013-2016，参与
+6. 国家自然科学基金，面上项目，千岛湖片段化栖息地中森林鸟类群落的动态与稳定性，2012-2015，参与
+7. 国家自然科学基金，青年科学基金项目，千岛湖鸟类和两栖类对栖息地片段化的敏感特征研究，2012-2014，参与
+:::
+:::
+:::
+:::
+:::

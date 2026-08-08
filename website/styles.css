@@ -1,0 +1,467 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap");
+
+:root {
+  --site-background: #f2f6f7;
+  --site-navbar: #f8fafb;
+  --site-text: #172026;
+  --site-text-soft: #435158;
+  --site-border: #dce4e7;
+  --site-font: "Noto Sans SC", "Source Han Sans SC", "思源黑体 CN", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+html {
+  background: var(--site-background);
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background: var(--site-background);
+  color: var(--site-text);
+  font-family: var(--site-font);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.navbar-brand,
+.nav-link {
+  font-family: var(--site-font);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: var(--site-text);
+}
+
+a:hover,
+a:focus,
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: var(--site-text);
+  opacity: 0.68;
+}
+
+.navbar {
+  background: var(--site-navbar);
+  border-bottom: 1px solid var(--site-border);
+  box-shadow: none;
+  min-height: 4.5rem;
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+}
+
+#quarto-header,
+#quarto-header.headroom--unpinned {
+  background: var(--site-navbar);
+  transform: translateY(0) !important;
+}
+
+.navbar-brand {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.98rem;
+  font-weight: 500;
+  margin-left: 1rem;
+}
+
+.quarto-title-banner {
+  background: var(--site-background);
+  border-bottom: 1px solid var(--site-border);
+  color: var(--site-text);
+  padding: clamp(3rem, 8vw, 5rem) 0;
+}
+
+.quarto-title-banner h1.title {
+  color: var(--site-text);
+  font-size: clamp(2.1rem, 5vw, 3.6rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+#quarto-content {
+  background: var(--site-background);
+  min-height: calc(100vh - 4.5rem);
+}
+
+body.wdc-home #title-block-header {
+  display: none;
+}
+
+body.people-page #title-block-header {
+  display: none;
+}
+
+.home-simple {
+  margin: 0 auto;
+  max-width: 1000px;
+  min-height: calc(100vh - 4.5rem);
+  padding: clamp(6.5rem, 14vh, 10rem) 1.5rem clamp(8rem, 18vh, 13rem);
+}
+
+.home-simple h1 {
+  color: var(--site-text);
+  font-size: clamp(2.2rem, 4.2vw, 3.4rem);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+  margin: 0;
+  text-align: center;
+}
+
+.home-pi {
+  color: var(--site-text);
+  font-size: clamp(1.35rem, 2.4vw, 1.7rem);
+  font-weight: 600;
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.home-pi p {
+  margin: 0;
+}
+
+.home-summary {
+  color: var(--site-text-soft);
+  font-size: 1.05rem;
+  line-height: 1.85;
+  margin-top: 2.6rem;
+  max-width: 760px;
+  text-align: left;
+}
+
+.home-summary p {
+  margin: 0;
+}
+
+.people-page-shell {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: clamp(1.5rem, 2.7vw, 2.3rem) 1.5rem 7rem;
+}
+
+.people-page-shell > h1 {
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0 0 clamp(2.5rem, 5vw, 4rem);
+}
+
+.faculty-list {
+  border-top: 1px solid var(--site-border);
+}
+
+.faculty-profile {
+  align-items: start;
+  display: grid;
+  gap: clamp(1.25rem, 3vw, 2.5rem);
+  grid-template-columns: 230px minmax(0, 1fr);
+  padding: clamp(2.5rem, 5vw, 4rem) 0;
+}
+
+.faculty-photo-wrap {
+  max-width: 230px;
+}
+
+.faculty-photo-wrap p {
+  margin: 0;
+}
+
+.faculty-photo {
+  aspect-ratio: 1 / 1;
+  border: 1px solid var(--site-border);
+  border-radius: 3px;
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.huang-photo {
+  object-position: 50% 38%;
+}
+
+.wu-photo {
+  object-position: 50% 36%;
+}
+
+.faculty-social-links {
+  display: flex;
+  gap: 0.55rem;
+  justify-content: flex-start;
+  margin-top: 0.5rem;
+}
+
+.faculty-social-links a {
+  align-items: center;
+  border: 1px solid var(--site-border);
+  border-radius: 50%;
+  color: var(--site-text-soft);
+  display: inline-flex;
+  height: 2rem;
+  justify-content: center;
+  text-decoration: none;
+  width: 2rem;
+}
+
+.faculty-social-links a:hover,
+.faculty-social-links a:focus-visible {
+  background: var(--site-navbar);
+  border-color: var(--site-text-soft);
+  color: var(--site-text);
+}
+
+.faculty-social-links .bi {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.faculty-history {
+  color: var(--site-text);
+  font-size: 0.84rem;
+  line-height: 1.25;
+  margin-top: 0.75rem;
+}
+
+.faculty-social-links + .faculty-history {
+  margin-top: 0.5rem;
+}
+
+.history-item {
+  margin-bottom: 0.38rem;
+}
+
+.history-item:last-child {
+  margin-bottom: 0;
+}
+
+.history-date,
+.history-detail {
+  display: block;
+}
+
+.history-date {
+  color: var(--site-text-soft);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.faculty-copy {
+  align-self: start;
+  min-height: 230px;
+  padding-top: 0;
+}
+
+.faculty-copy h2 {
+  border: 0;
+  font-size: clamp(1.2rem, 2vw, 1.45rem);
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0;
+  padding: 0;
+}
+
+.faculty-bio {
+  font-weight: 400;
+  margin-top: 0.75rem;
+  max-width: 780px;
+}
+
+.faculty-bio p {
+  line-height: 1.45;
+  margin: 0 0 0.5rem;
+}
+
+.faculty-bio p:last-child {
+  margin-bottom: 0;
+}
+
+.faculty-courses,
+.faculty-projects {
+  margin-top: 0.9rem;
+  max-width: 760px;
+}
+
+.faculty-courses h3,
+.faculty-projects h3 {
+  font-size: 1.08rem;
+  font-weight: 600;
+  margin: 0 0 0.8rem;
+}
+
+.faculty-courses p {
+  line-height: 1.45;
+  margin: 0;
+}
+
+.faculty-projects ol {
+  margin: 0;
+  padding-left: 1.45rem;
+}
+
+.faculty-projects li {
+  line-height: 1.4;
+  margin-bottom: 0.35rem;
+  padding-left: 0.25rem;
+}
+
+.faculty-projects li:last-child {
+  margin-bottom: 0;
+}
+
+body.publications-page-body .quarto-title-banner {
+  padding: clamp(2.5rem, 6vw, 4rem) 0;
+}
+
+body.publications-page-body .quarto-title-banner h1.title {
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  font-weight: 600;
+}
+
+body.publications-page-body #title-block-header,
+body.contact-page-body #title-block-header {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1100px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  text-align: left;
+  width: 100%;
+}
+
+.publications-page-shell {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 2rem 1.5rem 7rem;
+  text-align: left;
+}
+
+.publications-page h2 {
+  border-bottom: 1px solid var(--site-border);
+  font-size: clamp(1.45rem, 2.5vw, 1.8rem);
+  font-weight: 600;
+  margin-top: 4rem;
+  padding-bottom: 0.75rem;
+}
+
+.publications-page > section:first-child > h2 {
+  margin-top: 0;
+}
+
+.publications-page ol {
+  margin-bottom: 0;
+  padding-left: 1.4rem;
+}
+
+.publications-page li {
+  line-height: 1.37;
+  margin-bottom: 0.35rem;
+  padding-left: 0.45rem;
+}
+
+.publications-page li > p {
+  margin-bottom: 0;
+}
+
+.publications-page li:last-child {
+  margin-bottom: 0;
+}
+
+.publications-page a {
+  overflow-wrap: anywhere;
+}
+
+body.contact-page-body .quarto-title-banner {
+  padding: clamp(2.5rem, 6vw, 4rem) 0;
+}
+
+body.contact-page-body .quarto-title-banner h1.title {
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  font-weight: 600;
+}
+
+.contact-page-shell {
+  color: var(--site-text-soft);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 2rem 1.5rem 7rem;
+  text-align: left;
+}
+
+.contact-page-shell p {
+  margin: 0;
+  max-width: 780px;
+}
+
+main.content {
+  margin: 0 auto;
+  max-width: 1180px;
+  min-height: 45vh;
+  padding-bottom: 5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-nav .nav-link {
+    margin-left: 0;
+    padding: 0.65rem 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .faculty-profile {
+    gap: 2rem;
+    grid-template-columns: 1fr;
+  }
+
+  .faculty-photo-wrap {
+    max-width: 220px;
+  }
+
+  .faculty-copy {
+    min-height: 7rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    font-size: 1rem;
+  }
+
+  .home-simple {
+    padding-top: 5rem;
+  }
+
+  .home-simple h1 {
+    font-size: clamp(1.95rem, 9vw, 2.65rem);
+    letter-spacing: -0.01em;
+  }
+}

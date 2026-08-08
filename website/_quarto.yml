@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - people.qmd
+    - publications.qmd
+    - contact.qmd
+  resources:
+    - assets
+
+lang: zh
+
+website:
+  title: "Wildlife Disease & Conservation Group"
+  site-url: "https://wdcgroup.org"
+  navbar:
+    headroom: false
+    title: "Wildlife Disease & Conservation Group"
+    background: "#ffffff"
+    foreground: "#000000"
+    search: false
+    right:
+      - text: "研究组简介"
+        href: index.qmd
+      - text: "研究团队"
+        href: people.qmd
+      - text: "研究成果"
+        href: publications.qmd
+      - text: "联系我们"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    highlight-style: none
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true

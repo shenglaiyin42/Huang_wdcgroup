@@ -1,0 +1,17 @@
+---
+title: "主页"
+page-layout: full
+body-classes: "wdc-home"
+---
+
+::: {.home-simple}
+# 野生动物疫病与保护研究组
+
+::: {.home-pi}
+研究组负责人：黄峥 教授
+:::
+
+::: {.home-summary}
+这里应该是课题组研究大方向的一个简介
+:::
+:::

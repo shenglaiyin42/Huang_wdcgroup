@@ -1,0 +1,9 @@
+---
+title: "联系课题组"
+page-layout: full
+body-classes: "contact-page-body"
+---
+
+::: {.contact-page-shell}
+如有研究合作、学术交流或加入研究组等相关咨询，欢迎通过电子邮件联系[黄峥博士](mailto:zyx.huang@outlook.com) [zyx.huang AT outlook.com]。
+:::
