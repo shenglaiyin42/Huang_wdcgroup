@@ -55,12 +55,12 @@ body-classes: "people-page"
 <div class="history-item"><span class="history-date">2014-2018</span><span class="history-detail">CNRS理论与实验生态学研究站-法国图卢兹第三大学 生态学 博士</span></div>
 <div class="history-item"><span class="history-date">2019-2024</span><span class="history-detail">浙江大学 生命科学学院 助理研究员</span></div>
 <div class="history-item"><span class="history-date">2023-2024</span><span class="history-detail">CNRS理论与实验生态学研究站 访问学者</span></div>
-<div class="history-item"><span class="history-date">2025-至今</span><span class="history-detail">南京林业大学 校聘副教授</span></div>
+<div class="history-item"><span class="history-date">2025-至今</span><span class="history-detail">南京林业大学 副教授</span></div>
 </div>
 :::
 
 ::: {.faculty-copy}
-## 吴强 博士
+## 吴强 博士（副教授）
 
 ::: {.faculty-bio}
 吴强博士主要从事动物生态与保护及疾病生态学研究。在动物生态与保护方面，以鸟类、两栖爬行动物等类群为研究对象，关注动物多样性格局及其保护，并探讨动物对生境片段化和气候变化等环境变化的响应。在疾病生态学方面，主要聚焦鸟类血孢子虫以及寄生性蜱螨相关的野生动物病原体，研究病原体多样性的空间格局及其维持机制、宿主与病原体互作网络对环境变化的响应，以及疾病传播风险的生态驱动机制。
