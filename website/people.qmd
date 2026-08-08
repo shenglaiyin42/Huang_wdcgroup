@@ -10,15 +10,15 @@ body-classes: "people-page"
 ::: {.faculty-list}
 ::: {.faculty-profile}
 ::: {.faculty-photo-wrap}
-<img src="assets/img/huang-zheng.jpg" class="faculty-photo huang-photo" alt="黄峥教授">
+<img src="assets/img/huang-zheng.jpg" class="faculty-photo huang-photo" alt="黄峥 博士">
 
-<nav class="faculty-social-links" aria-label="黄峥教授的学术主页">
-<a href="https://scholar.google.com/citations?user=5SRTuN8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer" aria-label="黄峥教授的 Google Scholar 主页"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
+<nav class="faculty-social-links" aria-label="黄峥博士的学术主页">
+<a href="https://scholar.google.com/citations?user=5SRTuN8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer" aria-label="黄峥博士的 Google Scholar 主页"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
 </nav>
 
-<div class="faculty-history" aria-label="黄峥教授教育与工作经历">
-<div class="history-item"><span class="history-date">2003.09-2007.06</span><span class="history-detail">南京大学生物技术 学士</span></div>
-<div class="history-item"><span class="history-date">2007.09-2010.06</span><span class="history-detail">南京大学生态学 硕士</span></div>
+<div class="faculty-history" aria-label="黄峥博士教育与工作经历">
+<div class="history-item"><span class="history-date">2003.09-2007.06</span><span class="history-detail">南京大学 生物技术 学士</span></div>
+<div class="history-item"><span class="history-date">2007.09-2010.06</span><span class="history-detail">南京大学 生态学 硕士</span></div>
 <div class="history-item"><span class="history-date">2010.08-2014.09</span><span class="history-detail">荷兰瓦赫宁根大学 博士</span></div>
 <div class="history-item"><span class="history-date">2013.10-2014.01</span><span class="history-detail">美国普林斯顿大学 访问博士</span></div>
 <div class="history-item"><span class="history-date">2015.07-2024.09</span><span class="history-detail">南京师范大学 副教授、教授</span></div>
