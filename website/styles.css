@@ -182,7 +182,6 @@ body.people-page #title-block-header {
 
 .faculty-list {
   border-bottom: 1px solid var(--site-border);
-  border-top: 1px solid var(--site-border);
 }
 
 .faculty-profile {
