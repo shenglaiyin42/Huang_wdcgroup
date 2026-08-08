@@ -136,11 +136,11 @@ body.people-page #title-block-header {
 
 .home-affiliation {
   color: var(--site-text-soft);
-  font-size: 1.15rem;
-  font-weight: 500;
-  letter-spacing: 0.12em;
-  margin-top: 0.65rem;
-  text-align: center;
+  font-size: 1.05rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 0.55rem;
+  text-align: left;
 }
 
 .home-affiliation p {
@@ -151,7 +151,7 @@ body.people-page #title-block-header {
   color: var(--site-text);
   font-size: clamp(1.35rem, 2.4vw, 1.7rem);
   font-weight: 600;
-  margin-top: 2.25rem;
+  margin-top: 1.5rem;
   text-align: left;
 }
 

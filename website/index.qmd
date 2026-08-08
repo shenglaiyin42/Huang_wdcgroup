@@ -7,12 +7,12 @@ body-classes: "wdc-home"
 ::: {.home-simple}
 # 野生动物疫病与保护研究组
 
-::: {.home-affiliation}
-南京林业大学
-:::
-
 ::: {.home-pi}
 研究组负责人：黄峥 博士（教授、博导）
+:::
+
+::: {.home-affiliation}
+南京林业大学
 :::
 
 ::: {.home-summary}
