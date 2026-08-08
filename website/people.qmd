@@ -7,6 +7,8 @@ body-classes: "people-page"
 ::: {.people-page-shell}
 # 研究团队
 
+<h2 class="people-section-title">研究骨干</h2>
+
 ::: {.faculty-list}
 ::: {.faculty-profile}
 ::: {.faculty-photo-wrap}
