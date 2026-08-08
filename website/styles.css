@@ -109,6 +109,14 @@ a:focus,
   min-height: calc(100vh - 4.5rem);
 }
 
+body.wdc-home #quarto-content {
+  background-color: #f3f7f6;
+  background-image: url("assets/background/home-background-v4.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 body.wdc-home #title-block-header {
   display: none;
 }
