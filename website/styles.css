@@ -11,7 +11,9 @@
 
 html {
   background: var(--site-background);
+  overflow-y: scroll;
   scroll-padding-top: 5rem;
+  scrollbar-gutter: stable;
 }
 
 body {
