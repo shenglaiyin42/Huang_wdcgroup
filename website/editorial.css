@@ -22,6 +22,14 @@ body.wdc-home #quarto-content { background: #f3f7f6 url('assets/background/home-
 .home-pi { font-size: 17px; margin-top: 22px; max-width: 53%; line-height: 1.8; }
 .home-affiliation { font-size: 15px; margin-top: 12px; }
 .home-summary { margin: 0; }
+body.wdc-home #quarto-content > main.content { display: flex; flex-direction: column; min-height: inherit; }
+.home-simple { flex: 1; }
+.home-collaborators { display: flex; flex-direction: column; align-items: flex-start; gap: 16px; padding: 26px 0 30px; border-top: 1px solid #d5e1df; }
+.home-collaborators h2 { margin: 0; padding: 0; border: 0; color: var(--site-text-soft); font-size: 15px; font-weight: 500; line-height: 1.7; }
+.collaborator-links { display: flex; flex-wrap: wrap; align-items: center; gap: 20px 36px; }
+.collaborator-links a { display: inline-flex; align-items: center; gap: 12px; color: var(--editorial-accent); font-size: 16px; font-weight: 500; text-decoration: none; }
+.collaborator-links a span { font-size: 14px; font-weight: 400; }
+.collaborator-links a:hover, .collaborator-links a:focus-visible { opacity: 1; text-decoration: underline; text-underline-offset: 4px; }
 .people-page-shell { max-width: none; padding: 38px 0 70px; }
 .people-page-shell > h1, body.publications-page-body h1.title, body.contact-page-body h1.title { font-size: 32px; letter-spacing: .08em; font-weight: 600; }
 .people-page-shell > h1 { margin-bottom: 28px; }
@@ -63,6 +71,7 @@ body.publications-page-body #title-block-header, body.contact-page-body #title-b
   .home-simple { padding: 48px 0 280px; min-height: 620px; }
   .home-simple h1 { width: 100%; font-size: 30px; }
   .home-pi { max-width: 100%; font-size: 16px; }
+  .home-collaborators { align-items: flex-start; flex-direction: column; gap: 16px; padding: 24px 0; }
   .faculty-profile { display: block; padding: 22px; }
   .faculty-photo-wrap .faculty-photo { width: 220px; }
   .faculty-photo-wrap h2 { font-size: 20px; }
