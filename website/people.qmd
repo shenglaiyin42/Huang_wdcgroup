@@ -49,9 +49,9 @@ body-classes: "people-page"
 
 ::: {.faculty-profile}
 ::: {.faculty-photo-wrap}
-<img src="assets/img/shenglai-yin-headshot.jpg" class="faculty-photo" alt="殷盛来博士（预聘教授）">
+<img src="assets/img/shenglai-yin-headshot.jpg" class="faculty-photo" alt="殷盛来博士（校聘教授）">
 
-## 殷盛来 博士（预聘教授）
+## 殷盛来 博士（校聘教授）
 
 <nav class="faculty-social-links" aria-label="殷盛来博士的学术主页">
 <a href="https://scholar.google.com/citations?user=J9VueqQAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="殷盛来博士的 Google Scholar 主页" title="Google Scholar"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
