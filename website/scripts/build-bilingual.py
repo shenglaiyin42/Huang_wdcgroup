@@ -155,7 +155,7 @@ def build(path):
     brand = root.find(lambda node: node.has_class("navbar-brand"))
     brand.children = [
         Node("span", {"class": "brand-chinese"}, pair("野生动物疫病与保护研究组", "Wildlife Disease & Conservation Group")),
-        Node("span", {"class": "brand-english"}, pair("Wildlife Disease & Conservation Group", "WDC Group")),
+        Node("span", {"class": "brand-english"}, pair("Wildlife Disease & Conservation Group", "野生动物疫病与保护研究组")),
     ]
     switch = Node("div", {"class": "wdc-language-switch", "role": "group",
                           "aria-label": "语言选择", "data-wdc-attr-zh-aria-label": "语言选择",

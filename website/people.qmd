@@ -14,6 +14,8 @@ body-classes: "people-page"
 ::: {.faculty-photo-wrap}
 <img src="assets/img/huang-zheng.jpg" class="faculty-photo huang-photo" alt="黄峥 博士">
 
+## 黄峥 博士（教授、博导）
+
 <nav class="faculty-social-links" aria-label="黄峥博士的学术主页">
 <a href="https://scholar.google.com/citations?user=5SRTuN8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer" aria-label="黄峥博士的 Google Scholar 主页"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
 </nav>
@@ -29,8 +31,6 @@ body-classes: "people-page"
 :::
 
 ::: {.faculty-copy}
-## 黄峥 博士（教授、博导）
-
 ::: {.faculty-bio}
 黄峥博士主要从事“One Health”框架下的动物疫病生态学研究，以高致病性禽流感、莱姆病、牛肺结核等重要人畜共患病为对象，重点针对人畜共患病在群落和景观水平上的传播格局、风险因子及生态机理开展系统性研究，以期深入阐释环境-宿主-病原间的复杂关系，从而为这些疫病的预测和防控提供理论依据。
 
@@ -51,6 +51,8 @@ body-classes: "people-page"
 ::: {.faculty-photo-wrap}
 <img src="assets/img/shenglai-yin-headshot.jpg" class="faculty-photo" alt="殷盛来博士（预聘教授）">
 
+## 殷盛来 博士（预聘教授）
+
 <nav class="faculty-social-links" aria-label="殷盛来博士的学术主页">
 <a href="https://scholar.google.com/citations?user=J9VueqQAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="殷盛来博士的 Google Scholar 主页" title="Google Scholar"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
 <a href="https://thepacelab.org/" target="_blank" rel="noopener noreferrer" aria-label="PACE Lab 课题组网站" title="PACE Lab 课题组网站"><i class="bi bi-globe" aria-hidden="true"></i></a>
@@ -68,8 +70,6 @@ body-classes: "people-page"
 :::
 
 ::: {.faculty-copy}
-## 殷盛来 博士（预聘教授）
-
 ::: {.faculty-bio}
 殷盛来博士主要从事疾病生态学、动物移动生态学与全球变化生物学研究，重点关注迁徙水鸟、禽流感以及野生动物-家禽-人类交界面上的“同一健康”（One Health）问题。综合运用基于主体模型、流行病学模型、网络分析、统计分析和机器学习等方法，探究动物移动、景观与气候变化以及宿主群落组成如何共同影响野生动物疾病风险，以提升对疾病传播、跨物种溢出及新发传染病的预测能力，为野生动物保护与动物健康提供科学支撑。
 
@@ -97,6 +97,8 @@ body-classes: "people-page"
 ::: {.faculty-photo-wrap}
 <img src="assets/img/wu-qiang.jpg" class="faculty-photo wu-photo" alt="吴强 博士（副教授）">
 
+## 吴强 博士（副教授）
+
 <div class="faculty-history" aria-label="吴强博士教育与工作经历">
 <div class="history-item"><span class="history-date">2025-至今</span><span class="history-detail">南京林业大学 副教授</span></div>
 <div class="history-item"><span class="history-date">2023-2024</span><span class="history-detail">CNRS理论与实验生态学研究站 访问学者</span></div>
@@ -108,8 +110,6 @@ body-classes: "people-page"
 :::
 
 ::: {.faculty-copy}
-## 吴强 博士（副教授）
-
 ::: {.faculty-bio}
 吴强博士主要从事动物生态与保护及疾病生态学研究。在动物生态与保护方面，以鸟类、两栖爬行动物等类群为研究对象，关注动物多样性格局及其保护，并探讨动物对生境片段化和气候变化等环境变化的响应。在疾病生态学方面，主要聚焦鸟类血孢子虫以及寄生性蜱螨相关的野生动物病原体，研究病原体多样性的空间格局及其维持机制、宿主与病原体互作网络对环境变化的响应，以及疾病传播风险的生态驱动机制。
 :::

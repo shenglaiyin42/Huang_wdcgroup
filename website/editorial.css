@@ -27,12 +27,11 @@ body.wdc-home #quarto-content { background: #f3f7f6 url('assets/background/home-
 .people-page-shell > h1 { margin-bottom: 28px; }
 .people-section-title { color: var(--editorial-accent); font-size: 17px; margin-bottom: 22px; }
 .faculty-list { border: 0; }
-.faculty-profile { grid-template-columns: minmax(220px, 1fr) minmax(0, 2.2fr); gap: 30px 44px; padding: 30px; background: #fbfcfc; border-top: 3px solid var(--editorial-accent); margin-bottom: 38px; }
-.faculty-heading { grid-column: 1 / -1; display: flex; align-items: center; gap: 28px; padding-bottom: 26px; border-bottom: 1px solid #dce5e3; }
-.faculty-heading .faculty-photo { width: 112px; height: 112px; border: 0; border-radius: 0; }
-.faculty-heading h2 { border: 0; margin: 0; padding: 0; font-size: 22px; line-height: 1.6; }
-.faculty-photo-wrap { max-width: none; }
-.faculty-history, .faculty-social-links + .faculty-history { margin-top: 0; font-size: 13px; line-height: 1.65; }
+.faculty-profile { grid-template-columns: 240px minmax(0, 1fr); align-items: start; gap: 0 40px; padding: 30px; background: #fbfcfc; border-top: 3px solid var(--editorial-accent); margin-bottom: 38px; }
+.faculty-photo-wrap { min-width: 0; max-width: none; }
+.faculty-photo-wrap .faculty-photo { width: 240px; max-width: 100%; height: auto; aspect-ratio: 1 / 1; border: 0; border-radius: 0; }
+.faculty-photo-wrap h2 { border: 0; margin: 16px 0 0; padding: 0; font-size: 20px; line-height: 1.6; }
+.faculty-history, .faculty-social-links + .faculty-history { margin-top: 18px; font-size: 13px; line-height: 1.65; }
 .history-item { margin-bottom: 14px; padding-left: 12px; border-left: 2px solid #dce5e3; }
 .history-date { font-size: 12px; color: var(--editorial-accent); }
 .faculty-copy { min-height: 0; }
@@ -65,10 +64,10 @@ body.publications-page-body #title-block-header, body.contact-page-body #title-b
   .home-simple h1 { width: 100%; font-size: 30px; }
   .home-pi { max-width: 100%; font-size: 16px; }
   .faculty-profile { display: block; padding: 22px; }
-  .faculty-heading { gap: 18px; }
-  .faculty-heading .faculty-photo { width: 84px; height: 84px; }
-  .faculty-heading h2 { font-size: 18px; }
+  .faculty-photo-wrap .faculty-photo { width: 220px; }
+  .faculty-photo-wrap h2 { font-size: 20px; }
   .faculty-history { margin: 24px 0; }
+  .faculty-copy { margin-top: 28px; }
   .publications-page-shell { display: block; }
   .publication-index { position: static; display: flex; flex-wrap: wrap; margin-bottom: 24px; }
   .publication-index a { padding: 10px; }

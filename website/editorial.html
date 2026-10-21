@@ -1,18 +1,5 @@
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('.faculty-profile').forEach(profile => {
-    const heading = profile.querySelector('.faculty-copy h2');
-    const photo = profile.querySelector('.faculty-photo');
-    const social = profile.querySelector('.faculty-social-links');
-    if (!heading || !photo) return;
-    const header = document.createElement('div');
-    header.className = 'faculty-heading';
-    const identity = document.createElement('div');
-    identity.append(heading);
-    if (social) identity.append(social);
-    header.append(photo, identity);
-    profile.prepend(header);
-  });
   const publications = document.querySelector('.publications-page');
   if (publications) {
     const nav = document.createElement('nav');
