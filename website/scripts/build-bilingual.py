@@ -19,7 +19,7 @@ OUTPUT = Path(os.environ.get("QUARTO_PROJECT_OUTPUT_DIR", "_site"))
 if not OUTPUT.is_absolute():
     OUTPUT = SITE / OUTPUT
 TRANSLATIONS = json.loads((SITE / "assets/i18n/en.json").read_text(encoding="utf-8"))
-TITLES = {"index": ("主页", "Home"), "people": ("研究团队", "People"),
+TITLES = {"index": ("主页", "Home"), "people": ("研究团队", "Team"),
           "publications": ("研究组论文发表", "Group Publications"),
           "contact": ("联系课题组", "Contact the Group")}
 VOID = set("area base br col embed hr img input link meta param source track wbr".split())
