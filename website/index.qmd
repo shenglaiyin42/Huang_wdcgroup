@@ -22,8 +22,8 @@ body-classes: "wdc-home"
 <footer class="home-collaborators" aria-labelledby="collaborators-title">
 <h2 id="collaborators-title">紧密合作团队</h2>
 <nav class="collaborator-links" aria-label="合作团队网站">
-<a href="https://thepacelab.org/" lang="en" target="_blank" rel="noopener noreferrer">PACE Lab <span aria-hidden="true">↗</span></a>
-<a href="https://yanjie-xu.github.io/" lang="en" target="_blank" rel="noopener noreferrer">Melody Lab <span aria-hidden="true">↗</span></a>
+<a href="https://thepacelab.org/" target="_blank" rel="noopener noreferrer">PACE Lab（南京林业大学） <span aria-hidden="true">↗</span></a>
+<a href="https://yanjie-xu.github.io/" target="_blank" rel="noopener noreferrer">赫尔辛基大学 <span aria-hidden="true">↗</span></a>
 <a href="https://www.universiteitleiden.nl/en/staffmembers/yali-si#tab-1" target="_blank" rel="noopener noreferrer">莱顿大学 <span aria-hidden="true">↗</span></a>
 <a href="https://life.nju.edu.cn/xc1/list.htm" target="_blank" rel="noopener noreferrer">南京大学 <span aria-hidden="true">↗</span></a>
 </nav>

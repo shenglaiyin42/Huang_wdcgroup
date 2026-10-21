@@ -9,7 +9,7 @@ html:not([lang="en"]) .wdc-language-switch [data-wdc-language="zh"],
 html[lang="en"] .wdc-language-switch [data-wdc-language="en"] { background: var(--editorial-accent); color: #fff; }
 .wdc-language-switch button:hover { box-shadow: inset 0 0 0 1px var(--editorial-accent); }
 .wdc-language-switch button:focus-visible { outline: 2px solid var(--editorial-accent); outline-offset: 3px; }
-html[lang="en"] .brand-chinese { font-size: 22px; letter-spacing: .015em; }
+html[lang="en"] .brand-chinese { letter-spacing: .015em; }
 html[lang="en"] .home-simple h1 { width: 75%; font-size: clamp(30px, 3.3vw, 44px); letter-spacing: .01em; line-height: 1.4; }
 html[lang="en"] .home-pi { max-width: 75%; }
 html[lang="en"] .people-page-shell > h1,
@@ -17,12 +17,10 @@ html[lang="en"] h1.title { letter-spacing: .015em; }
 html[lang="en"] .history-detail { overflow-wrap: anywhere; }
 @media (max-width: 991.98px) {
   .navbar-brand-container { gap: 14px; }
-  html[lang="en"] .brand-chinese { font-size: 18px; }
 }
 @media (max-width: 760px) {
   .navbar-brand-container { flex-wrap: wrap; gap: 14px; }
   .wdc-language-switch button { padding: 8px 12px; }
-  html[lang="en"] .brand-chinese { font-size: 17px; }
   html[lang="en"] .home-simple h1 { width: 100%; font-size: 30px; }
   html[lang="en"] .home-pi { max-width: 100%; }
 }
