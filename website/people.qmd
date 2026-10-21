@@ -49,6 +49,52 @@ body-classes: "people-page"
 
 ::: {.faculty-profile}
 ::: {.faculty-photo-wrap}
+<img src="assets/img/shenglai-yin-headshot.jpg" class="faculty-photo" alt="殷盛来博士（预聘教授）">
+
+<nav class="faculty-social-links" aria-label="殷盛来博士的学术主页">
+<a href="https://scholar.google.com/citations?user=J9VueqQAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" aria-label="殷盛来博士的 Google Scholar 主页" title="Google Scholar"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
+<a href="https://thepacelab.org/" target="_blank" rel="noopener noreferrer" aria-label="PACE Lab 课题组网站" title="PACE Lab 课题组网站"><i class="bi bi-globe" aria-hidden="true"></i></a>
+<a href="https://orcid.org/0000-0001-9889-9656" target="_blank" rel="noopener noreferrer" aria-label="殷盛来博士的 ORCID 主页" title="ORCID"><span aria-hidden="true">iD</span></a>
+</nav>
+
+<div class="faculty-history" aria-label="殷盛来博士教育与工作经历">
+<div class="history-item"><span class="history-date">2022.08-至今</span><span class="history-detail">美国俄克拉荷马大学及美国USGS东部生态研究中心 博士后研究员</span></div>
+<div class="history-item"><span class="history-date">2021.03-2022.08</span><span class="history-detail">南京师范大学 博士后</span></div>
+<div class="history-item"><span class="history-date">2019.03-2021.01</span><span class="history-detail">南京大学常熟生态研究院 总经理助理</span></div>
+<div class="history-item"><span class="history-date">2014.09-2018.12</span><span class="history-detail">荷兰瓦格宁根大学 生态学 博士</span></div>
+<div class="history-item"><span class="history-date">2010.09-2014.06</span><span class="history-detail">南京大学 生态学 硕士</span></div>
+<div class="history-item"><span class="history-date">2006.09-2010.06</span><span class="history-detail">南京信息工程大学 生态学 学士</span></div>
+</div>
+:::
+
+::: {.faculty-copy}
+## 殷盛来 博士（预聘教授）
+
+::: {.faculty-bio}
+殷盛来博士主要从事疾病生态学、动物移动生态学与全球变化生物学研究，重点关注迁徙水鸟、禽流感以及野生动物-家禽-人类交界面上的“同一健康”（One Health）问题。综合运用基于主体模型、流行病学模型、网络分析、统计分析和机器学习等方法，探究动物移动、景观与气候变化以及宿主群落组成如何共同影响野生动物疾病风险，以提升对疾病传播、跨物种溢出及新发传染病的预测能力，为野生动物保护与动物健康提供科学支撑。
+
+现任 Journal of Animal Ecology 副主编、Avian Research 青年编委、亚洲迁飞通道水鸟合作网络委员会委员、禽流感生态学与进化国际论坛召集人与主持人。
+:::
+
+::: {.faculty-courses}
+### 讲授课程
+
+《疾病生态学》、《生物统计学》。
+:::
+
+::: {.faculty-projects}
+### 科研项目
+
+1. 国家自然科学基金，青年科学基金项目（C 类），基于多层网络的高致病性禽流感风险格局及其景观驱动机制研究（42201129），2022，主持，已结题。
+2. 国家自然科学基金，面上项目，物种功能性状对动物传染病风险影响的多尺度研究（32271605），2023.01–至今，参与。
+3. 美国国家科学基金会（NSF），大流行预测与预防项目（PIPP）第一阶段：国际禽流感大流行预测与预防中心（2200310），2022.08–至今，博士后研究员。
+4. 美国国家科学基金会（NSF），传染病生态学与进化（EEID）项目：中美传染病生态学与进化前沿研讨会（1911955），2022.07–至今，博士后研究员。
+:::
+:::
+:::
+
+::: {.faculty-profile}
+::: {.faculty-photo-wrap}
 <img src="assets/img/wu-qiang.jpg" class="faculty-photo wu-photo" alt="吴强 博士（副教授）">
 
 <div class="faculty-history" aria-label="吴强博士教育与工作经历">
