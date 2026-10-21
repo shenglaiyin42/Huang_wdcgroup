@@ -18,6 +18,7 @@ body-classes: "people-page"
 
 <nav class="faculty-social-links" aria-label="黄峥博士的学术主页">
 <a href="https://scholar.google.com/citations?user=5SRTuN8AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer" aria-label="黄峥博士的 Google Scholar 主页"><i class="bi bi-mortarboard" aria-hidden="true"></i></a>
+<a href="https://orcid.org/0000-0002-8761-3787" target="_blank" rel="noopener noreferrer" aria-label="黄峥博士的 ORCID 主页" title="ORCID"><span aria-hidden="true">iD</span></a>
 </nav>
 
 <div class="faculty-history" aria-label="黄峥博士教育与工作经历">
@@ -98,6 +99,10 @@ body-classes: "people-page"
 <img src="assets/img/wu-qiang.jpg" class="faculty-photo wu-photo" alt="吴强 博士（副教授）">
 
 ## 吴强 博士（副教授）
+
+<nav class="faculty-social-links" aria-label="吴强博士的学术主页">
+<a href="https://orcid.org/0000-0002-3005-4072" target="_blank" rel="noopener noreferrer" aria-label="吴强博士的 ORCID 主页" title="ORCID"><span aria-hidden="true">iD</span></a>
+</nav>
 
 <div class="faculty-history" aria-label="吴强博士教育与工作经历">
 <div class="history-item"><span class="history-date">2025-至今</span><span class="history-detail">南京林业大学 副教授</span></div>
