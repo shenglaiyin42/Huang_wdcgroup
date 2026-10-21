@@ -1,0 +1,29 @@
+/* A compact, square-cornered two-part switch distinct from PACE's pill. */
+html:not([lang="en"]) [data-wdc-copy="en"],
+html[lang="en"] [data-wdc-copy="zh"] { display: none !important; }
+.navbar-brand-container { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.navbar-brand { min-width: 0; }
+.wdc-language-switch { display: inline-flex; flex: 0 0 auto; padding: 3px; border: 1px solid var(--editorial-accent); border-radius: 6px; gap: 3px; }
+.wdc-language-switch button { border: 0; border-radius: 3px; background: transparent; color: var(--editorial-accent); padding: 7px 11px; font: inherit; font-size: 12px; font-weight: 500; line-height: 1.3; cursor: pointer; min-width: 43px; }
+html:not([lang="en"]) .wdc-language-switch [data-wdc-language="zh"],
+html[lang="en"] .wdc-language-switch [data-wdc-language="en"] { background: var(--editorial-accent); color: #fff; }
+.wdc-language-switch button:hover { box-shadow: inset 0 0 0 1px var(--editorial-accent); }
+.wdc-language-switch button:focus-visible { outline: 2px solid var(--editorial-accent); outline-offset: 3px; }
+html[lang="en"] .brand-chinese { font-size: 22px; letter-spacing: .015em; }
+html[lang="en"] .home-simple h1 { width: 75%; font-size: clamp(30px, 3.3vw, 44px); letter-spacing: .01em; line-height: 1.4; }
+html[lang="en"] .home-pi { max-width: 75%; }
+html[lang="en"] .people-page-shell > h1,
+html[lang="en"] h1.title { letter-spacing: .015em; }
+html[lang="en"] .history-detail { overflow-wrap: anywhere; }
+@media (max-width: 991.98px) {
+  .navbar-brand-container { gap: 14px; }
+  html[lang="en"] .brand-chinese { font-size: 18px; }
+}
+@media (max-width: 760px) {
+  .navbar-brand-container { flex-wrap: wrap; gap: 14px; }
+  .wdc-language-switch button { padding: 8px 12px; }
+  html[lang="en"] .brand-chinese { font-size: 17px; }
+  html[lang="en"] .home-simple h1 { width: 100%; font-size: 30px; }
+  html[lang="en"] .home-pi { max-width: 100%; }
+  .faculty-heading > div { min-width: 0; }
+}

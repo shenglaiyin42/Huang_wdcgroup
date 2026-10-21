@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  post-render:
+    - python3 scripts/build-bilingual.py
   render:
     - index.qmd
     - people.qmd
@@ -33,7 +35,8 @@ website:
 format:
   html:
     theme: cosmo
-    css: [styles.css, editorial.css]
+    css: [styles.css, editorial.css, language.css]
+    include-in-header: language-head.html
     include-after-body: editorial.html
     toc: false
     highlight-style: none

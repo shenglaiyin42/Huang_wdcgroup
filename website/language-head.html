@@ -1,0 +1,15 @@
+<script>
+// Match PACE Lab's saved-language and URL behavior; Chinese is WDC's default.
+(function () {
+  const requested = new URLSearchParams(location.search).get('lang');
+  let saved = 'zh';
+  try { saved = localStorage.getItem('wdc-language') || 'zh'; } catch (_) {}
+  const language = ['zh', 'en'].includes(requested) ? requested : saved === 'en' ? 'en' : 'zh';
+  const root = document.documentElement;
+  root.lang = language === 'en' ? 'en' : 'zh-CN';
+  root.setAttribute('xml:lang', root.lang);
+  const title = root.getAttribute('data-wdc-title-' + language);
+  if (title) document.title = title;
+})();
+</script>
+<script defer src="assets/js/language-switch.js"></script>

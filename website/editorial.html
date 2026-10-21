@@ -1,17 +1,5 @@
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const brand = document.querySelector('.navbar-brand');
-  if (brand) {
-    const english = brand.textContent.trim();
-    brand.replaceChildren();
-    const title = document.createElement('span');
-    title.className = 'brand-chinese';
-    title.textContent = '野生动物疫病与保护研究组';
-    const sub = document.createElement('span');
-    sub.className = 'brand-english';
-    sub.textContent = english;
-    brand.append(title, sub);
-  }
   document.querySelectorAll('.faculty-profile').forEach(profile => {
     const heading = profile.querySelector('.faculty-copy h2');
     const photo = profile.querySelector('.faculty-photo');
@@ -25,27 +13,18 @@ document.addEventListener('DOMContentLoaded', () => {
     header.append(photo, identity);
     profile.prepend(header);
   });
-  const contact = document.querySelector('.contact-page-shell p');
-  if (contact) {
-    for (const node of [...contact.childNodes]) {
-      if (node.nodeType === Node.TEXT_NODE && node.textContent.includes('[zyx.huang AT outlook.com]')) {
-        const email = document.createElement('span');
-        email.className = 'contact-email';
-        email.textContent = node.textContent;
-        node.replaceWith(email);
-      }
-    }
-  }
   const publications = document.querySelector('.publications-page');
   if (publications) {
     const nav = document.createElement('nav');
     nav.className = 'publication-index';
-    nav.setAttribute('aria-label', '论文分类');
+    nav.setAttribute('data-wdc-attr-zh-aria-label', '论文分类');
+    nav.setAttribute('data-wdc-attr-en-aria-label', 'Publication categories');
+    nav.setAttribute('aria-label', document.documentElement.lang === 'en' ? 'Publication categories' : '论文分类');
     publications.querySelectorAll('h2').forEach((heading, i) => {
       heading.id = 'publication-section-' + i;
       const link = document.createElement('a');
       link.href = '#' + heading.id;
-      link.textContent = heading.textContent;
+      for (const node of heading.childNodes) link.append(node.cloneNode(true));
       nav.append(link);
     });
     publications.before(nav);
